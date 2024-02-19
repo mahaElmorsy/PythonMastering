@@ -18,3 +18,4 @@ emp2 = Employee('Nada', 'Osman', 'nadaosman96@gmail.com')
 
 print(emp1.mail)
 print(emp2.mail)
+
