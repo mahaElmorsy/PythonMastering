@@ -4,4 +4,6 @@ so let's get started :
 
 ===> Automation prerequisites:
 1) Currency Converter :
-     you'll need to install requests : pip install requests
+     you'll need to install requests: pip install requests
+2) Youtube Downloader :
+     you'll need to install pytube : pip install pytube
